@@ -1,6 +1,6 @@
 <h1 align="center" id="project_name">
-  <br />   
-        <img height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />  
+  <br />          
+    <img height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
   <br />
 </h1>
 
@@ -22,7 +22,7 @@
   <!-- Repository status -->
   <img src="https://www.repostatus.org/badges/latest/unsupported.svg">
   <!-- Link repo -->
-  <a href="https://github.com/risaltte/design-system/blob/master/LICENSE.md">
+  <a href="https://github.com/risaltte/design-system/master/LICENSE.md">
     <img src="https://img.shields.io/github/license/risaltte/design-system?color=81D8F7" alt="License">
   </a>
 </p>
