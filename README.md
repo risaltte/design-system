@@ -135,7 +135,7 @@ $ npm run storybook
 
 <h2 id="license">📝 License</h2>
 
-Distributed under MIT license. See [LICENSE](LICENSE) for more information.
+Distributed under MIT license. See [LICENSE](LICENSE.MD) for more information.
 
 Made with ❤️ by Rafael Risalte 👋🏽 [Contact!](https://www.linkedin.com/in/rafaelrisalte/)
 
