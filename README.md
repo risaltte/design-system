@@ -22,7 +22,7 @@
   <!-- Repository status -->
   <img src="https://www.repostatus.org/badges/latest/unsupported.svg">
   <!-- Link repo -->
-  <a href="https://github.com/risaltte/lab-design-system/blob/master/LICENSE.md">
+  <a href="https://github.com/risaltte/lab-design-system/tree/master/LICENSE.md">
     <img src="https://img.shields.io/github/license/risaltte/design-system?color=81D8F7" alt="License">
   </a>
 </p>
