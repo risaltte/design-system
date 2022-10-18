@@ -11,7 +11,7 @@
 <p align="center">
   <!-- GitHub last commit -->
   <a href="https://github.com/risaltte/design-system/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/erik-albuquerque/lab-design-system?color=81D8F7">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/risaltte/design-system?color=81D8F7">
   </a>
   <!-- GitHub language count -->
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/risaltte/design-system?color=81D8F7">
@@ -22,7 +22,7 @@
   <!-- Repository status -->
   <img src="https://www.repostatus.org/badges/latest/unsupported.svg">
   <!-- Link repo -->
-  <a href="https://github.com/risaltte/design-system/master/LICENSE.md">
+  <a href="[https://github.com/risaltte/design-system/master/LICENSE.md](https://github.com/risaltte/design-system/blob/master/LICENSE.MD)">
     <img src="https://img.shields.io/github/license/risaltte/design-system?color=81D8F7" alt="License">
   </a>
 </p>
