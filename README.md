@@ -115,11 +115,11 @@ $ npm run storybook
 ```
 
 <h2 id="demo">🧪 Demo</h2>
-<a href="https://design-system-risaltte.vercel.app/">
+<a href="https://design-system-risaltte.vercel.app/" target="_blank">
 <!-- Link externo ou local(.github). -->
   <img src=".github/img/vercel_button.png">  
 </a>
-<a style="margin-left: 16px" href="https://risaltte.github.io/design-system/">
+<a style="margin-left: 16px" href="https://risaltte.github.io/design-system/" target="_blank">
 <!-- Link externo ou local(.github). -->
   <img src=".github/img/storybook_button.png">  
 </a>
